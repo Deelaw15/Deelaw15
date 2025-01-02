@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faruq Lawal
-- 👀 I’m a Data Analyst 
+- 👀 I’m a Data Analyst/Data Scientist
 - 🌱 I’m currently learning and working on several projects
 - 💞️ I’m looking to collaborate and also for a Data Analyst Role
 - 📫 To reach me lawalfaruq50@gmail.com
